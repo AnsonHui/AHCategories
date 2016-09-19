@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2816AEBF1D54296A008D517B"
+               BlueprintIdentifier = "283B95771D8E77D1000404CA"
                BuildableName = "AHCategories.app"
                BlueprintName = "AHCategories"
                ReferencedContainer = "container:AHCategories.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2816AEBF1D54296A008D517B"
+            BlueprintIdentifier = "283B95771D8E77D1000404CA"
             BuildableName = "AHCategories.app"
             BlueprintName = "AHCategories"
             ReferencedContainer = "container:AHCategories.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2816AEBF1D54296A008D517B"
+            BlueprintIdentifier = "283B95771D8E77D1000404CA"
             BuildableName = "AHCategories.app"
             BlueprintName = "AHCategories"
             ReferencedContainer = "container:AHCategories.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2816AEBF1D54296A008D517B"
+            BlueprintIdentifier = "283B95771D8E77D1000404CA"
             BuildableName = "AHCategories.app"
             BlueprintName = "AHCategories"
             ReferencedContainer = "container:AHCategories.xcodeproj">
